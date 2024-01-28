@@ -2,7 +2,7 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Zaxiriddin</h1>
 <h3 align="center">I am Backend developer</h3><br><br>
-<h4>languages: Python,C++,Html,Css<br><br>database:MySQL and PostgresSQL<br><br>fremeworks:Django<br></h4>h4>
+<h4>languages: Python,C++,Html,Css<br><br>database:MySQL and PostgresSQL<br><br>fremeworks:Django<br></h4>
 
 
 ## 🌐 Socials:
