@@ -28,4 +28,4 @@
 ## Watch snake eating my  github contributions
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 
-![snake gif](https://github.com/zahridd1n/zahridd1n/blob/output/github-contribution-grid-snake.gif)
+<!--![snake gif](https://github.com/zahridd1n/zahridd1n/blob/output/github-contribution-grid-snake.gif)-->
